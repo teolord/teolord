@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hello there 👋
+## Im IT student interested in cyber security at [Smíchovská střední průmyslová škola][ssps]
 <!--
 **teolord/teolord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
