@@ -1,5 +1,7 @@
 ## Hello there 👋
 ### I'm IT student interested in cyber security at [Smíchovská střední průmyslová škola][ssps]
+  - I like Steganography
+
 ### Connect with me on: 
 [LinkedIn]
 <!--
