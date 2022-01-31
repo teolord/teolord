@@ -1,7 +1,9 @@
 ## Hello there 👋
 ### I'm IT student interested in cyber security at [Smíchovská střední průmyslová škola][ssps]
-  - I like Steganography
-
+  - Steganography 
+  - Osint
+  - basics of reverse engineering
+  
 ### Connect with me on: 
 [LinkedIn]
 <!--
