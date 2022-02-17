@@ -5,8 +5,7 @@
   - basics of reverse engineering
   
 ### Connect with me on: 
-[LinkedIn]
-[Discord]
+You can add me on Discord: ->TeolorD #1314
 
 
 <!--
@@ -26,5 +25,3 @@ Here are some ideas to get you started:
 
 
 [ssps]: https://www.ssps.cz/
-[LinkedIn]: https://www.linkedin.com/in/eduard-waber-94950b223/
-[Discord]: ->TeolorD#1314
