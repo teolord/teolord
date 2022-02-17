@@ -6,6 +6,9 @@
   
 ### Connect with me on: 
 [LinkedIn]
+[Discord]
+
+
 <!--
 **teolord/teolord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,5 +23,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 [ssps]: https://www.ssps.cz/
 [LinkedIn]: https://www.linkedin.com/in/eduard-waber-94950b223/
+[Discord]: ->TeolorD#1314
