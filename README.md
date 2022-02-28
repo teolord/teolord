@@ -2,7 +2,7 @@
 ### I'm IT student interested in cyber security at [Smíchovská střední průmyslová škola][ssps]
   - steganography 
   - osint
-  - basics of reverse engineering and malware analysis
+  - basics of malware analysis and reverse engineering
   
 ### Connect with me on: 
 You can add me on Discord: ->TeolorD #1314
