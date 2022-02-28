@@ -4,7 +4,6 @@
   - osint
   - basics of malware analysis and reverse engineering
   
-### Connect with me on: 
 You can add me on Discord: ->TeolorD #1314
 
 
