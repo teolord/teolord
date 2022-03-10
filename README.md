@@ -3,7 +3,7 @@
   - steganography 
   - osint
   - basics of malware analysis and reverse engineering
-  
+  - static network analysis
 You can add me on Discord: ->TeolorD #1314
 
 
