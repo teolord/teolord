@@ -7,7 +7,7 @@
   
 You can add me on Discord: 
 
-->TeolorD #1314
+*->TeolorD *#1314
 
 
 <!--
