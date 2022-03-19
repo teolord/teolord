@@ -17,9 +17,8 @@ Discord: *->TeolorD#1314*
 
 > Challenge author
 
-**European Cyber Security Challenge***
-
-*2021*
+##### European Cyber Security Challenge
+2021
 
 > Organizer 
 
