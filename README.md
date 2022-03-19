@@ -13,19 +13,19 @@ Discord: *->TeolorD#1314*
 
 ***HackDays***
 2022
-- Challenge author
+> Challenge author
 
 **European Cyber Security Challenge***
 
 2021
 
-- Organizer 
+> Organizer 
 
 ***JP League***
 
 2020 - 2021
 
-- Server Admin
+> Server Admin
 
 ### CTFs
 
@@ -37,13 +37,13 @@ Discord: *->TeolorD#1314*
 
 2021 - 2022
 
-12th place in 2nd round
+> 12th place in 2nd round
 
 ***Accenture CTF***
 
 2021
 
-4th place
+> 4th place
 
 <!--
 **teolord/teolord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
