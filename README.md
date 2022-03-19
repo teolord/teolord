@@ -7,7 +7,7 @@
   
 Connect with me on: 
 
-Discord: *->TeolorD#1314*
+[Discord] 
 
 HackTheBox: *https://app.hackthebox.com/users/550708*
 
@@ -29,3 +29,4 @@ Here are some ideas to get you started:
 
 
 [ssps]: https://www.ssps.cz/
+[Discord]: ->TeolorD#1314
