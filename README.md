@@ -26,11 +26,15 @@ Discord: *->TeolorD#1314*
 ## CTFs
 
 ***Kybersoutěž***
+
 2021 - 2022
+
 - 12. Place in 2. round
 
 ***Accenture CTF***
+
 2021
+
 - 4. Place
 
 <!--
