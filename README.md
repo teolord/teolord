@@ -1,15 +1,15 @@
 ## Hello there 👋
-### I'm IT student interested in cyber security at [Smíchovská střední průmyslová škola][ssps]
+#### I'm IT student interested in cyber security at [Smíchovská střední průmyslová škola][ssps]
   - steganography 
   - osint
   - basics of malware analysis and reverse engineering
   - static network analysis
   
-Connect with me on: 
+#### Connect with me on: 
 
 Discord: *->TeolorD#1314*
 
-## CV
+### CV
 
 ***JP League***
 2020 - 2021
@@ -19,7 +19,7 @@ Discord: *->TeolorD#1314*
 2021
 - Organizer 
 
-## CTFs
+### CTFs
 
 [HackTheBox]
 
