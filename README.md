@@ -8,7 +8,9 @@
 Connect with me on: 
 
 Discord: *->TeolorD#1314*
+
 HackTheBox: *https://app.hackthebox.com/users/550708*
+
 TryHackMe: *https://tryhackme.com/p/TeolorD*
 <!--
 **teolord/teolord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
