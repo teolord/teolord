@@ -29,13 +29,13 @@ Discord: *->TeolorD#1314*
 
 2021 - 2022
 
-- 12th place in 2nd round
+12th place in 2nd round
 
 ***Accenture CTF***
 
 2021
 
-- 4th place
+4th place
 
 <!--
 **teolord/teolord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
