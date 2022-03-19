@@ -9,10 +9,6 @@ Connect with me on:
 
 Discord: *->TeolorD#1314*
 
-[HackTheBox]
-
-[TryHackMe]
-
 ## CV
 
 ***JP League***
@@ -24,6 +20,10 @@ Discord: *->TeolorD#1314*
 - Organizer 
 
 ## CTFs
+
+[HackTheBox]
+
+[TryHackMe]
 
 ***Kybersoutěž***
 
