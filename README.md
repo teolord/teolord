@@ -9,7 +9,7 @@
 
 Discord: *->TeolorD#1314*
 
-### CV
+## CV
 
 #### HackDays
 2022
@@ -26,7 +26,7 @@ Discord: *->TeolorD#1314*
 
 > Server Admin
 
-### CTFs
+## CTFs
 
 [HackTheBox]
 
