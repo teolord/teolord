@@ -11,20 +11,18 @@ Discord: *->TeolorD#1314*
 
 ### CV
 
-***HackDays***
-
-*2022*
+#### HackDays
+2022
 
 > Challenge author
 
-##### European Cyber Security Challenge
+#### European Cyber Security Challenge
 2021
 
 > Organizer 
 
-***JP League***
-
-*2020 - 2021*
+#### JP League
+2020 - 2021
 
 > Server Admin
 
@@ -34,15 +32,13 @@ Discord: *->TeolorD#1314*
 
 [TryHackMe]
 
-***Kybersoutěž***
-
-*2021 - 2022*
+#### Kybersoutěž
+2021 - 2022
 
 > 12th place in 2nd round
 
-***Accenture CTF***
-
-*2021*
+#### Accenture CTF
+2021
 
 > 4th place
 
