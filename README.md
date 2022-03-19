@@ -5,11 +5,11 @@
   - basics of malware analysis and reverse engineering
   - static network analysis
   
-You can add me on Discord: 
+Connect with me on: 
 
-*->TeolorD#1314*
-
-
+Discord: *->TeolorD#1314*
+HackTheBox: *https://app.hackthebox.com/users/550708*
+TryHackMe: *https://tryhackme.com/p/TeolorD*
 <!--
 **teolord/teolord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
