@@ -11,13 +11,21 @@ Discord: *->TeolorD#1314*
 
 ### CV
 
-***JP League***
-2020 - 2021
-- Server Admin
+***HackDays***
+2022
+- Challenge author
 
-***European Cyber Security Challenge***
+**European Cyber Security Challenge***
+
 2021
+
 - Organizer 
+
+***JP League***
+
+2020 - 2021
+
+- Server Admin
 
 ### CTFs
 
