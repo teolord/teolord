@@ -13,6 +13,26 @@ Discord: *->TeolorD#1314*
 
 [TryHackMe]
 
+## CV
+
+***JP League***
+2020 - 2021
+- Server Admin
+
+***European Cyber Security Challenge***
+2021
+- Organizer 
+
+## CTFs
+
+***Kybersoutěž***
+2021 - 2022
+- 12. Place in 2. round
+
+***Accenture CTF***
+2021
+- 4. Place
+
 <!--
 **teolord/teolord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
