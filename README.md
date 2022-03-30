@@ -1,5 +1,5 @@
 ## Hello there 👋
-#### I'm IT student interested in cyber security at [Smíchovská střední průmyslová škola][ssps]
+#### I'm Computer Science student interested in cyber security at [Smíchovská střední průmyslová škola][ssps]
   - steganography 
   - osint
   - basics of malware analysis and reverse engineering
