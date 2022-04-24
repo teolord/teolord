@@ -42,6 +42,10 @@ Discord: *->TeolorD#1314*
 
 > 4th place
 
+#### CrewCTF 2022
+
+> 107th place
+
 <!--
 **teolord/teolord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
