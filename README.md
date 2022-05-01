@@ -46,6 +46,10 @@ Discord: *->TeolorD#1314*
 
 > 107th place
 
+#### NahamConCTF2022
+
+> 154th place
+
 <!--
 **teolord/teolord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
