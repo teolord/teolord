@@ -32,8 +32,7 @@ Discord: *->TeolorD#1314*
 
 [TryHackMe]
 
-#### Kybersoutěž
-2021 - 2022
+#### Kybersoutěž 2021 - 2022
 
 > 12th place in 2nd round
 
