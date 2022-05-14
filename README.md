@@ -44,7 +44,7 @@ Discord: *->TeolorD#1314*
 
 > 107th place
 
-#### NahamConCTF2022
+#### NahamCon CTF 2022
 
 > 154th place
 
