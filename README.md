@@ -36,6 +36,8 @@ Discord: *->TeolorD#1314*
 
 > 12th place in 2nd round
 
+> 29th place in 3th final round
+
 #### Accenture CTF 2021
 
 > 4th place
