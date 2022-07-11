@@ -50,6 +50,10 @@ Discord: *->TeolorD#1314*
 
 > 154th place
 
+#### FAUST ATTACK/DEFENSE CTF 2022
+
+> 21th place 
+
 <!--
 **teolord/teolord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
