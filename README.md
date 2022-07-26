@@ -54,6 +54,10 @@ Discord: *->TeolorD#1314*
 
 > 21th place 
 
+#### ENOWARS 6
+
+> 25th place
+
 <!--
 **teolord/teolord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
