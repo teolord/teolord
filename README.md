@@ -3,7 +3,7 @@
   - steganography 
   - osint
   - basics of malware analysis and reverse engineering
-  - static network analysis
+  - network analysis
   
 #### Connect with me on: 
 
